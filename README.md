@@ -16,25 +16,8 @@ Shows both new and previously scraped articles.
 Allows refreshing the data via the backend.
 Handles errors and loading states gracefully.
 
-project-root/
-├── backend/
-│   ├── src/
-│   │   ├── index.ts         # Backend entry point
-│   │   ├── scraper.ts       # Scraper logic
-│   │   ├── config.ts        # Configuration (e.g., API keys, URLs)
-│   │   └── tests/
-│   │       └── scraper.test.ts  # Backend tests
-│   ├── package.json         # Backend dependencies
-│   └── tsconfig.json        # TypeScript configuration
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── App.js           # Frontend main component
-│   │   ├── App.css          # Frontend styles
-│   │   └── index.js         # Frontend entry point
-│   ├── package.json         # Frontend dependencies
-│   └── README.md            # Frontend documentation
-└── README.md                # Main README
+![image](https://github.com/user-attachments/assets/77eb1d15-bb20-46e6-9b4a-ced9ce0d00ed)
+
 ![image](https://github.com/user-attachments/assets/4074da99-9e4b-4ebd-a979-bce6ea8813aa)
 
 Frontend: npm install, then npm start
